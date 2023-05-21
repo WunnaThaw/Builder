@@ -1,0 +1,5 @@
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Builder\bin\Debug\Builder.exe.config
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Builder\bin\Debug\Builder.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Builder\bin\Debug\Builder.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Builder\obj\Debug\Builder.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Builder\obj\Debug\Builder.pdb
